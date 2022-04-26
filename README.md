@@ -18,7 +18,7 @@ CARD ANNOTATIONS
 
 ## Features
 
-- **Task CRUD with ReactJS, NodeJS, Material-UI, MongoDB**
+- **Task CRUD with ReactJS, NodeJS and MongoDB**
 - **Create a New Card**
 - **Edit your Cards**
 - **View your Cards**
@@ -29,8 +29,7 @@ CARD ANNOTATIONS
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=MaterialUI)
-  
+    
 
 ## Getting started
 
