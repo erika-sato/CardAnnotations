@@ -4,7 +4,7 @@
 CARD ANNOTATIONS
 </h1>
 
-<p align="center">a task list in card format, with a complete CRUD</p>
+<p align="center">A task list in card format, with a complete CRUD</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -29,7 +29,7 @@ CARD ANNOTATIONS
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=MaterialUI)
+  ![Material-UI](https://img.shields.io/badge/-Material-UI-333333?style=flat&logo=Material-UI)
   
 
 ## Getting started
