@@ -47,7 +47,7 @@ CARD ANNOTATIONS
 
 1. Move yourself to the frontend folder: `cd frontend`
 2. Run `npm run dev` to start the web application
-3. Open `http:/localhost:3000`
+3. Open `http://localhost:3000`
 
 
 ## License
